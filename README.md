@@ -1,4 +1,4 @@
-<img src="https://github.com/LucasMitori/LucasMitori/blob/main/images/githubprofile.jpg"/>
+<img src="https://github.com/LucasMitori/LucasMitori/blob/master/images/githubprofile.jpg"/>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
